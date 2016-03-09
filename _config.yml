@@ -1,7 +1,7 @@
 name: jmwbz
 favicon: null
-layout_spectrum: 0.6085610671434551
-typography_spectrum: 0.3181360955350101
+layout_spectrum: 0
+typography_spectrum: 0.66179
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#e9e9c7'
     - '#56495a'
     - '#838967'
-  brandStrength: 0.3681914934422821
-  lightness: 0.8294510589912534
-  saturation: 0.40963261714205146
-  rhythmicContrast: 0.25759309343993664
+  brandStrength: 0.875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
